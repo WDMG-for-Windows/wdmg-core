@@ -17,4 +17,4 @@
 4. Once you've chosen whether to keep the icon or not, click the button to start uninstallation
 5. Explorer will restart, and you've successfully uninstalled WDMG.
 
-**To download any prebuilt .wdmg files, [visit the WDMG Library](https://github.com/WDMG-for-Windows/wdmg-library)
+**To download any prebuilt .wdmg files, [visit the WDMG Library](https://github.com/WDMG-for-Windows/wdmg-library)**
